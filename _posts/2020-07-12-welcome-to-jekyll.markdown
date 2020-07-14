@@ -22,6 +22,25 @@ print_hi('Tom')
 #=> prints 'Hi, Tom' to STDOUT.
 {% endhighlight %}
 
+
+
+test1:    
+
+$$\LaTeX codes$$    
+
+test2: $ A^2=b^2+c^2 $  
+test3:  
+
+$$ a^2=b^2+c^2 $$  
+
+$$\LaTeX code$$   (for display)
+\\[\LaTeX code\\] (also for display)
+\\(\LaTeX code\\) (for inline)
+
+Example (1): $h_\theta(x) = \Large\frac{1}{1 + \mathcal{e}^{(-\theta^\top x)}}$ ; 
+example (2): $a^2 + b^2 = c^2$ ; example (3): $\sum_{i=1}^m y^{(i)}$
+
+
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
